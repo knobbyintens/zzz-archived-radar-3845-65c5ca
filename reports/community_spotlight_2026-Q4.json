@@ -1,0 +1,119 @@
+{
+  "batch": "2026-Q4",
+  "partner_channel": "PyCon AU",
+  "reviewed": 16,
+  "nominated": [
+    {
+      "ingest_id": "RADAR-2026Q4-001",
+      "talk_title": "I am bad at things - And that's okay",
+      "video_id": "iwuUqhBWncA",
+      "video_channel": "PyCon AU",
+      "review_snapshot": "mirrors/kestrel-lint",
+      "license": "MIT",
+      "tier": "gold",
+      "nomination_issue": null
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-002",
+      "talk_title": "30 to 70 PRs a day: How we managed to not wreck our systems",
+      "video_id": "Rg2j3K-wyyg",
+      "video_channel": "PyCon AU",
+      "review_snapshot": "mirrors/quorum-cache",
+      "license": "Apache-2.0",
+      "tier": "gold",
+      "nomination_issue": null
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-003",
+      "talk_title": "Just Enough Reliability",
+      "video_id": "Gh8Xyd_UEf4",
+      "video_channel": "PyCon AU",
+      "review_snapshot": "mirrors/beacon-lint",
+      "license": "MPL-2.0",
+      "tier": "silver",
+      "nomination_issue": null
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-004",
+      "talk_title": "Breaking the PR Review Bottleneck",
+      "video_id": "tJavRD5iG60",
+      "video_channel": "PyCon AU",
+      "review_snapshot": "mirrors/graft-kit",
+      "license": "GPL-3.0",
+      "tier": "bronze",
+      "nomination_issue": null
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-006",
+      "talk_title": "Why Australians don't trust AI and what that means for all of us",
+      "video_id": "-xB6oHkrC4A",
+      "video_channel": "PyCon AU",
+      "review_snapshot": "mirrors/logloom",
+      "license": "MPL-2.0",
+      "tier": "silver",
+      "nomination_issue": null
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-016",
+      "talk_title": "Why computer science matters to musicians",
+      "video_id": "6HTGAuKVtWI",
+      "video_channel": "PyCon AU",
+      "review_snapshot": "mirrors/mosaic-db",
+      "license": "MIT",
+      "tier": "gold",
+      "nomination_issue": null
+    }
+  ],
+  "skipped": [
+    {
+      "ingest_id": "RADAR-2026Q4-005",
+      "review_snapshot": "mirrors/parquet-forge",
+      "reason": "license_not_allowed"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-007",
+      "review_snapshot": "mirrors/spine-runtime",
+      "reason": "status_withdrawn"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-008",
+      "review_snapshot": "mirrors/tempo-lens",
+      "reason": "status_withdrawn"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-009",
+      "review_snapshot": "mirrors/slate-index",
+      "reason": "non_partner_channel"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-010",
+      "review_snapshot": "mirrors/vector-vane",
+      "reason": "non_partner_channel"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-011",
+      "review_snapshot": "mirrors/harbor-sql",
+      "reason": "license_missing"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-012",
+      "review_snapshot": "mirrors/metric-mender",
+      "reason": "docs_missing"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-013",
+      "review_snapshot": "mirrors/cinder-flow",
+      "reason": "tests_missing"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-014",
+      "review_snapshot": "mirrors/rivet-sync",
+      "reason": "review_snapshot_missing"
+    },
+    {
+      "ingest_id": "RADAR-2026Q4-015",
+      "review_snapshot": "mirrors/tally-ops",
+      "reason": "review_snapshot_missing"
+    }
+  ]
+}
