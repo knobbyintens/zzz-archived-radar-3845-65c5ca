@@ -11,7 +11,7 @@
       "review_snapshot": "mirrors/kestrel-lint",
       "license": "MIT",
       "tier": "gold",
-      "nomination_issue": null
+      "nomination_issue": 1
     },
     {
       "ingest_id": "RADAR-2026Q4-002",
@@ -21,7 +21,7 @@
       "review_snapshot": "mirrors/quorum-cache",
       "license": "Apache-2.0",
       "tier": "gold",
-      "nomination_issue": null
+      "nomination_issue": 2
     },
     {
       "ingest_id": "RADAR-2026Q4-003",
@@ -31,7 +31,7 @@
       "review_snapshot": "mirrors/beacon-lint",
       "license": "MPL-2.0",
       "tier": "silver",
-      "nomination_issue": null
+      "nomination_issue": 3
     },
     {
       "ingest_id": "RADAR-2026Q4-004",
@@ -41,7 +41,7 @@
       "review_snapshot": "mirrors/graft-kit",
       "license": "GPL-3.0",
       "tier": "bronze",
-      "nomination_issue": null
+      "nomination_issue": 4
     },
     {
       "ingest_id": "RADAR-2026Q4-006",
@@ -51,7 +51,7 @@
       "review_snapshot": "mirrors/logloom",
       "license": "MPL-2.0",
       "tier": "silver",
-      "nomination_issue": null
+      "nomination_issue": 5
     },
     {
       "ingest_id": "RADAR-2026Q4-016",
@@ -61,7 +61,7 @@
       "review_snapshot": "mirrors/mosaic-db",
       "license": "MIT",
       "tier": "gold",
-      "nomination_issue": null
+      "nomination_issue": 6
     }
   ],
   "skipped": [
